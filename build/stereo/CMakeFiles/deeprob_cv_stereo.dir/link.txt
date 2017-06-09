@@ -1,0 +1,2 @@
+/usr/bin/ar cr libdeeprob_cv_stereo.a  CMakeFiles/deeprob_cv_stereo.dir/src/sgm_stereo.cpp.o CMakeFiles/deeprob_cv_stereo.dir/src/local_stereo.cpp.o CMakeFiles/deeprob_cv_stereo.dir/src/ctmf.c.o
+/usr/bin/ranlib libdeeprob_cv_stereo.a
