@@ -1,3 +1,0 @@
-/home/jiatianwu/dso/sgm/build/stereo/CMakeFiles/deeprob_cv_stereo.dir
-/home/jiatianwu/dso/sgm/build/stereo/test/CMakeFiles/test_local.dir
-/home/jiatianwu/dso/sgm/build/stereo/test/CMakeFiles/test_sgm.dir
